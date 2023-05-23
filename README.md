@@ -8,4 +8,5 @@ Run Pn.py file to get desired output
 #NOTE: n -> [1, 2 ]
 
 Prac_1 : Normal Code
+
 Prac_2 : Codes with Recursion Technique
